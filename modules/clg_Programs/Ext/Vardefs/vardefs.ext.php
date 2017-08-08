@@ -17,5 +17,5 @@ $dictionary["clg_Programs"]["fields"]["clg_programs_clg_disciplines"] = array (
   'link-type' => 'many',
   'side' => 'left',
 );
-
+$dictionary["clg_Programs"]["fields"]["description"]["required"] = true;
 ?>
